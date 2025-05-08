@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "VariableCollectionId:1:2",
+    "name": "Primitivos",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "1:0"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:1:3",
+        "name": "size/0",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0
+        }
+      },
+      {
+        "id": "VariableID:1:4",
+        "name": "size/px",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 1
+        }
+      },
+      {
+        "id": "VariableID:1:5",
+        "name": "size/0-5",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 2
+        }
+      },
+      {
+        "id": "VariableID:1:6",
+        "name": "size/1",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 4
+        }
+      },
+      {
+        "id": "VariableID:1:7",
+        "name": "size/1-5",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 6
+        }
+      },
+      {
+        "id": "VariableID:1:8",
+        "name": "size/2",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 8
+        }
+      },
+      {
+        "id": "VariableID:1:9",
+        "name": "size/2-5",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 10
+        }
+      },
+      {
+        "id": "VariableID:1:10",
+        "name": "size/3",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 12
+        }
+      },
+      {
+        "id": "VariableID:1:11",
+        "name": "size/3-5",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 14
+        }
+      },
+      {
+        "id": "VariableID:1:12",
+        "name": "size/4",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 16
+        }
+      },
+      {
+        "id": "VariableID:1:13",
+        "name": "size/5",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 20
+        }
+      },
+      {
+        "id": "VariableID:1:14",
+        "name": "size/6",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 24
+        }
+      },
+      {
+        "id": "VariableID:1:15",
+        "name": "size/7",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 28
+        }
+      },
+      {
+        "id": "VariableID:1:16",
+        "name": "size/8",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 32
+        }
+      },
+      {
+        "id": "VariableID:1:17",
+        "name": "size/9",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 36
+        }
+      },
+      {
+        "id": "VariableID:1:18",
+        "name": "size/10",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 40
+        }
+      },
+      {
+        "id": "VariableID:1:19",
+        "name": "size/11",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 44
+        }
+      },
+      {
+        "id": "VariableID:1:20",
+        "name": "size/12",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 48
+        }
+      },
+      {
+        "id": "VariableID:1:21",
+        "name": "size/14",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 56
+        }
+      },
+      {
+        "id": "VariableID:1:22",
+        "name": "size/16",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 64
+        }
+      },
+      {
+        "id": "VariableID:1:23",
+        "name": "size/20",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 80
+        }
+      },
+      {
+        "id": "VariableID:1:24",
+        "name": "size/24",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 96
+        }
+      },
+      {
+        "id": "VariableID:1:25",
+        "name": "size/28",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 112
+        }
+      },
+      {
+        "id": "VariableID:1:26",
+        "name": "size/32",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 128
+        }
+      },
+      {
+        "id": "VariableID:1:27",
+        "name": "size/36",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 144
+        }
+      },
+      {
+        "id": "VariableID:1:28",
+        "name": "size/40",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 160
+        }
+      },
+      {
+        "id": "VariableID:1:29",
+        "name": "size/44",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 176
+        }
+      },
+      {
+        "id": "VariableID:1:30",
+        "name": "size/48",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 192
+        }
+      },
+      {
+        "id": "VariableID:1:31",
+        "name": "size/52",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 208
+        }
+      },
+      {
+        "id": "VariableID:1:32",
+        "name": "size/56",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 224
+        }
+      },
+      {
+        "id": "VariableID:1:33",
+        "name": "size/60",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 240
+        }
+      },
+      {
+        "id": "VariableID:1:34",
+        "name": "size/64",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 256
+        }
+      },
+      {
+        "id": "VariableID:1:35",
+        "name": "size/72",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 288
+        }
+      },
+      {
+        "id": "VariableID:1:36",
+        "name": "size/80",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 320
+        }
+      },
+      {
+        "id": "VariableID:1:37",
+        "name": "size/96",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 384
+        }
+      },
+      {
+        "id": "VariableID:1:38",
+        "name": "opacity/0",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0
+        }
+      },
+      {
+        "id": "VariableID:1:39",
+        "name": "opacity/5",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.05000000074505806
+        }
+      },
+      {
+        "id": "VariableID:1:40",
+        "name": "opacity/10",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.10000000149011612
+        }
+      },
+      {
+        "id": "VariableID:1:41",
+        "name": "opacity/15",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.15000000596046448
+        }
+      },
+      {
+        "id": "VariableID:1:42",
+        "name": "opacity/20",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.20000000298023224
+        }
+      },
+      {
+        "id": "VariableID:1:43",
+        "name": "opacity/25",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.25
+        }
+      },
+      {
+        "id": "VariableID:1:44",
+        "name": "opacity/30",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.30000001192092896
+        }
+      },
+      {
+        "id": "VariableID:1:45",
+        "name": "opacity/35",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.3499999940395355
+        }
+      },
+      {
+        "id": "VariableID:1:46",
+        "name": "opacity/40",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.4000000059604645
+        }
+      },
+      {
+        "id": "VariableID:1:47",
+        "name": "opacity/45",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.44999998807907104
+        }
+      },
+      {
+        "id": "VariableID:1:48",
+        "name": "opacity/50",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.5
+        }
+      },
+      {
+        "id": "VariableID:1:49",
+        "name": "opacity/55",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.550000011920929
+        }
+      },
+      {
+        "id": "VariableID:1:50",
+        "name": "opacity/60",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.6000000238418579
+        }
+      },
+      {
+        "id": "VariableID:1:51",
+        "name": "opacity/65",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.6499999761581421
+        }
+      },
+      {
+        "id": "VariableID:1:52",
+        "name": "opacity/70",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.699999988079071
+        }
+      },
+      {
+        "id": "VariableID:1:53",
+        "name": "opacity/75",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.75
+        }
+      },
+      {
+        "id": "VariableID:1:54",
+        "name": "opacity/80",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.800000011920929
+        }
+      },
+      {
+        "id": "VariableID:1:55",
+        "name": "opacity/85",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.8500000238418579
+        }
+      },
+      {
+        "id": "VariableID:1:56",
+        "name": "opacity/90",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.8999999761581421
+        }
+      },
+      {
+        "id": "VariableID:1:57",
+        "name": "opacity/95",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 0.949999988079071
+        }
+      },
+      {
+        "id": "VariableID:1:58",
+        "name": "opacity/100",
+        "type": "FLOAT",
+        "values": {
+          "1:0": 1
+        }
+      },
+      {
+        "id": "VariableID:1:59",
+        "name": "colors/slate/50",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9725490212440491,
+            "g": 0.9803921580314636,
+            "b": 0.9882352948188782,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:60",
+        "name": "colors/slate/100",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9450980424880981,
+            "g": 0.9607843160629272,
+            "b": 0.9764705896377563,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:61",
+        "name": "colors/slate/200",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.886274516582489,
+            "g": 0.9098039269447327,
+            "b": 0.9411764740943909,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:62",
+        "name": "colors/slate/300",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.7960784435272217,
+            "g": 0.8352941274642944,
+            "b": 0.8823529481887817,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:63",
+        "name": "colors/slate/400",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.5803921818733215,
+            "g": 0.6392157077789307,
+            "b": 0.7215686440467834,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:64",
+        "name": "colors/slate/500",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.3921568691730499,
+            "g": 0.45490196347236633,
+            "b": 0.545098066329956,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:65",
+        "name": "colors/slate/600",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.27843138575553894,
+            "g": 0.3333333432674408,
+            "b": 0.4117647111415863,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:66",
+        "name": "colors/slate/700",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.20000000298023224,
+            "g": 0.2549019753932953,
+            "b": 0.3333333432674408,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:67",
+        "name": "colors/slate/800",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.11764705926179886,
+            "g": 0.16078431904315948,
+            "b": 0.23137255012989044,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:68",
+        "name": "colors/slate/900",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.05882352963089943,
+            "g": 0.09019608050584793,
+            "b": 0.16470588743686676,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:69",
+        "name": "colors/slate/950",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.007843137718737125,
+            "g": 0.0235294122248888,
+            "b": 0.09019608050584793,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:70",
+        "name": "colors/gray/50",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9764705896377563,
+            "g": 0.9803921580314636,
+            "b": 0.9843137264251709,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:71",
+        "name": "colors/gray/100",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9529411792755127,
+            "g": 0.95686274766922,
+            "b": 0.9647058844566345,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:72",
+        "name": "colors/gray/200",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8980392217636108,
+            "g": 0.9058823585510254,
+            "b": 0.9215686321258545,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:73",
+        "name": "colors/gray/300",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8196078538894653,
+            "g": 0.8352941274642944,
+            "b": 0.8588235378265381,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:74",
+        "name": "colors/gray/400",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.6117647290229797,
+            "g": 0.6392157077789307,
+            "b": 0.686274528503418,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:75",
+        "name": "colors/gray/500",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.41960784792900085,
+            "g": 0.4470588266849518,
+            "b": 0.501960813999176,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:76",
+        "name": "colors/gray/600",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.29411765933036804,
+            "g": 0.3333333432674408,
+            "b": 0.38823530077934265,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:77",
+        "name": "colors/gray/700",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.21568627655506134,
+            "g": 0.2549019753932953,
+            "b": 0.3176470696926117,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:78",
+        "name": "colors/gray/800",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.12156862765550613,
+            "g": 0.16078431904315948,
+            "b": 0.21568627655506134,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:79",
+        "name": "colors/gray/900",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.06666667014360428,
+            "g": 0.0941176488995552,
+            "b": 0.15294118225574493,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:80",
+        "name": "colors/gray/950",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.0117647061124444,
+            "g": 0.027450980618596077,
+            "b": 0.07058823853731155,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:81",
+        "name": "colors/zinc/50",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9803921580314636,
+            "g": 0.9803921580314636,
+            "b": 0.9803921580314636,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:82",
+        "name": "colors/zinc/100",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.95686274766922,
+            "g": 0.95686274766922,
+            "b": 0.9607843160629272,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:83",
+        "name": "colors/zinc/200",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8941176533699036,
+            "g": 0.8941176533699036,
+            "b": 0.9058823585510254,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:84",
+        "name": "colors/zinc/300",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8313725590705872,
+            "g": 0.8313725590705872,
+            "b": 0.8470588326454163,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:85",
+        "name": "colors/zinc/400",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.6313725709915161,
+            "g": 0.6313725709915161,
+            "b": 0.6666666865348816,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:86",
+        "name": "colors/zinc/500",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.4431372582912445,
+            "g": 0.4431372582912445,
+            "b": 0.47843137383461,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:87",
+        "name": "colors/zinc/600",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.32156863808631897,
+            "g": 0.32156863808631897,
+            "b": 0.35686275362968445,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:88",
+        "name": "colors/zinc/700",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.24705882370471954,
+            "g": 0.24705882370471954,
+            "b": 0.27450981736183167,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:89",
+        "name": "colors/zinc/800",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.15294118225574493,
+            "g": 0.15294118225574493,
+            "b": 0.16470588743686676,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:90",
+        "name": "colors/zinc/900",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.0941176488995552,
+            "g": 0.0941176488995552,
+            "b": 0.10588235408067703,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:91",
+        "name": "colors/zinc/950",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.03529411926865578,
+            "g": 0.03529411926865578,
+            "b": 0.04313725605607033,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:92",
+        "name": "colors/neutral/50",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9803921580314636,
+            "g": 0.9803921580314636,
+            "b": 0.9803921580314636,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:93",
+        "name": "colors/neutral/100",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9607843160629272,
+            "g": 0.9607843160629272,
+            "b": 0.9607843160629272,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:94",
+        "name": "colors/neutral/200",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8980392217636108,
+            "g": 0.8980392217636108,
+            "b": 0.8980392217636108,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:95",
+        "name": "colors/neutral/300",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8313725590705872,
+            "g": 0.8313725590705872,
+            "b": 0.8313725590705872,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:96",
+        "name": "colors/neutral/400",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.6392157077789307,
+            "g": 0.6392157077789307,
+            "b": 0.6392157077789307,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:97",
+        "name": "colors/neutral/500",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.45098039507865906,
+            "g": 0.45098039507865906,
+            "b": 0.45098039507865906,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:98",
+        "name": "colors/neutral/600",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.32156863808631897,
+            "g": 0.32156863808631897,
+            "b": 0.32156863808631897,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:99",
+        "name": "colors/neutral/700",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.250980406999588,
+            "g": 0.250980406999588,
+            "b": 0.250980406999588,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:100",
+        "name": "colors/neutral/800",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.14901961386203766,
+            "g": 0.14901961386203766,
+            "b": 0.14901961386203766,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:101",
+        "name": "colors/neutral/900",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.09019608050584793,
+            "g": 0.09019608050584793,
+            "b": 0.09019608050584793,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:1:102",
+        "name": "colors/neutral/950",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.03921568766236305,
+            "g": 0.03921568766236305,
+            "b": 0.03921568766236305,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:38",
+        "name": "colors/orange/50",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 1,
+            "g": 0.9686274528503418,
+            "b": 0.929411768913269,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:39",
+        "name": "colors/orange/100",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 1,
+            "g": 0.929411768913269,
+            "b": 0.8352941274642944,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:40",
+        "name": "colors/orange/200",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9960784316062927,
+            "g": 0.843137264251709,
+            "b": 0.6666666865348816,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:41",
+        "name": "colors/orange/300",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9921568632125854,
+            "g": 0.729411780834198,
+            "b": 0.45490196347236633,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:42",
+        "name": "colors/orange/400",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9843137264251709,
+            "g": 0.572549045085907,
+            "b": 0.23529411852359772,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:43",
+        "name": "colors/orange/500",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9764705896377563,
+            "g": 0.45098039507865906,
+            "b": 0.08627451211214066,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:44",
+        "name": "colors/orange/600",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9176470637321472,
+            "g": 0.3450980484485626,
+            "b": 0.0470588244497776,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:45",
+        "name": "colors/orange/700",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.7607843279838562,
+            "g": 0.2549019753932953,
+            "b": 0.0470588244497776,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:46",
+        "name": "colors/orange/800",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.6039215922355652,
+            "g": 0.20392157137393951,
+            "b": 0.07058823853731155,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:47",
+        "name": "colors/orange/900",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.48627451062202454,
+            "g": 0.1764705926179886,
+            "b": 0.07058823853731155,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:48",
+        "name": "colors/orange/950",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.26274511218070984,
+            "g": 0.0784313753247261,
+            "b": 0.027450980618596077,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:49",
+        "name": "colors/amber/50",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 1,
+            "g": 0.9843137264251709,
+            "b": 0.9215686321258545,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:50",
+        "name": "colors/amber/100",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9960784316062927,
+            "g": 0.9529411792755127,
+            "b": 0.7803921699523926,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:51",
+        "name": "colors/amber/200",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9921568632125854,
+            "g": 0.9019607901573181,
+            "b": 0.5411764979362488,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:52",
+        "name": "colors/amber/300",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9882352948188782,
+            "g": 0.8274509906768799,
+            "b": 0.3019607961177826,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:53",
+        "name": "colors/amber/400",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9843137264251709,
+            "g": 0.7490196228027344,
+            "b": 0.1411764770746231,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:54",
+        "name": "colors/amber/500",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.9607843160629272,
+            "g": 0.6196078658103943,
+            "b": 0.04313725605607033,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:55",
+        "name": "colors/amber/600",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.8509804010391235,
+            "g": 0.46666666865348816,
+            "b": 0.0235294122248888,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:56",
+        "name": "colors/amber/700",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.7058823704719543,
+            "g": 0.32549020648002625,
+            "b": 0.03529411926865578,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:57",
+        "name": "colors/amber/800",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.572549045085907,
+            "g": 0.250980406999588,
+            "b": 0.054901961237192154,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:58",
+        "name": "colors/amber/900",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.47058823704719543,
+            "g": 0.2078431397676468,
+            "b": 0.05882352963089943,
+            "a": 1
+          }
+        }
+      },
+      {
+        "id": "VariableID:4:59",
+        "name": "colors/amber/950",
+        "type": "COLOR",
+        "values": {
+          "1:0": {
+            "r": 0.2705882489681244,
+            "g": 0.10196078568696976,
+            "b": 0.0117647061124444,
+            "a": 1
+          }
+        }
+      }
+    ]
+  },
+  {
+    "id": "VariableCollectionId:4:60",
+    "name": "Color semantico",
+    "modes": [
+      {
+        "name": "Mode 1",
+        "modeId": "4:0"
+      }
+    ],
+    "variables": [
+      {
+        "id": "VariableID:4:61",
+        "name": "background/default",
+        "type": "COLOR",
+        "values": {
+          "4:0": {
+            "type": "VARIABLE_ALIAS",
+            "id": "VariableID:1:65"
+          }
+        }
+      }
+    ]
+  }
+]
